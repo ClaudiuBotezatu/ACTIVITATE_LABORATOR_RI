@@ -1,0 +1,6 @@
+Adaugat 5 stopwords in trie.
+Numar stopwords gasite: 3
+Dati un cuvant pentru cautare: the
+Cuvantul 'the' e in trie.
+Dati un cuvant pentru cautare: hello
+Cuvantul 'hello' nu e in trie.

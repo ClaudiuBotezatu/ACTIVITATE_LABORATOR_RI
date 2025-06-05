@@ -1,0 +1,12 @@
+Scoruri PageRank:
+Pagina 1: 0.0292
+Pagina 2: 0.3982
+Pagina 3: 0.3612
+Pagina 4: 0.0349
+Pagina 5: 0.0718
+Pagina 6: 0.0349
+Pagina 7: 0.0140
+Pagina 8: 0.0140
+Pagina 9: 0.0140
+Pagina 10: 0.0140
+Pagina 11: 0.0140
